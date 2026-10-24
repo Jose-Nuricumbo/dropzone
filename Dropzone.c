@@ -1,7 +1,7 @@
 /*
  * Dropzone.c — Conversor de documentos moderno y zona de arrastre para GTK 4
  * 
- * Repositorio: https://github.com/your-username/dropzone
+ * Repositorio: https://github.com/Jose-Nuricumbo/dropzone
  * Licencia: MIT
  */
 

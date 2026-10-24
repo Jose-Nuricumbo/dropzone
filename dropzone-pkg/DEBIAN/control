@@ -1,0 +1,10 @@
+Package: dropzone
+Version: 1.0.0
+Section: utils
+Priority: optional
+Architecture: amd64
+Maintainer: José Luis <ppwicho0506@hotmail.com>
+Depends: libc6, libgtk-4-1 (>= 4.14), poppler-utils
+Description: Modern document converter and drop target for GTK 4
+ Un orbe flotante minimalista y ultraligero diseñado en GTK 4 
+ para convertir documentos arrastrándolos fácilmente.
